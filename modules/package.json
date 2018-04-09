@@ -1,0 +1,11 @@
+{
+  "name": "demomodule",
+  "version": "1.0.0",
+  "description": "Example of module's creation",
+  "main": "demo_module.js",
+  "scripts": {
+    "test": "node demo_module.js"
+  },
+  "author": "vanessakovalsky",
+  "license": "ISC"
+}
