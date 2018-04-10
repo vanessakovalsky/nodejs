@@ -1,0 +1,7 @@
+TP 7 - Ajouter une brique météo à notre application
+
+- Sur la page d'accueil nous allons ajouter la météo
+- Pour cela utiliser le module request pour appeler le WS de :
+- Afficher sur la page d'accueil un champ permettant de saisir la ville
+pour laquelle on souhaite voir la météo 
+- Afficher la météo de la ville souhaité à partir du WS

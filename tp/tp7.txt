@@ -1,0 +1,8 @@
+TP 6 - Créer les vues de notre application web
+
+- Avec l'aide de EJS, créer les vues suivantes :
+-- Page d'accueil
+-- Ajout d'un ticket
+-- Edition d'un ticket
+-- Voir un ticket
+-- Voir la liste des tickets 	

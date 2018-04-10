@@ -1,0 +1,8 @@
+TP 9 - Connexion à une base de données
+
+- Lancer MongoDB et créer une base de données
+- Créer des schemas depuis notre application pour stocker les utilisateurs
+- Enregistrer les nouveaux tickets dans la BDD
+- Afficher les tickets (en liste ou individuel depuis la BDD)
+- Enregistrer les modifications sur un ticket dans la BDD
+- Permettre de supprimer un ticket 

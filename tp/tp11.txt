@@ -1,0 +1,8 @@
+TP 11 - Chat pour le support
+
+- Ajouter dans notre application, pour les utilisateurs connectés,
+la possibilité de discuter dans une salle de chat commune 
+- Ajouter la possibilité de faire des chats avec un autre utilisateur (non accessible
+aux autres utilisateurs)
+- Enregistrer l'historique des conversations entre users dans la BDD, 
+puis les afficher à la prochaine connexion 
