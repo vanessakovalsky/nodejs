@@ -1,7 +1,0 @@
-TP 1
-
-Créer un module :
-
--> Renvoit la longueur d'une chaine
--> De transformer une chaine de majuscule à minuscule et vice versa
--> Comparer deux chaines de caractère
