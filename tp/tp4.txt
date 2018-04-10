@@ -1,0 +1,5 @@
+TP4 - Premier serveur web
+
+- Créer un serveur web qui répond sur localhost sur le port 3000 
+- Dans la page affichée créer un formulaire HTML avec deux champs texte : ancien répertoire, nouveau répertoire
+- Au submit du formulaire récupérer les deux informations et appeler la fonction de déplacement et de renommage de fichier 
