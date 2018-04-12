@@ -24,7 +24,7 @@ const server = http.createServer((req, res) => {
     collectRequestData(req, result => {
       console.log(result);
       console.log(read_files);
-      //read_files.readFiles(result.originPath, result.destPath);
+      read_files.readFiles(result.originPath, result.destPath);
       res.end(`Le repertoire d'origine est ${result.originPath}`);
     });
   }
