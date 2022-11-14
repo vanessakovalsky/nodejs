@@ -1,29 +1,15 @@
-# TP 1 - Installation et premier pas avec les modules et les évènements
+# TP3 - Evènements et fichier
+
 
 ## Objectifs de cette partie
 
-- Installer NodeJS
 - Lire et modifier des fichiers avec Node.js.
 - **Définir** des fonctions asynchrones.
-- Application: améliorer notre chat-bot de la partie 1.
 
-
-## Installer NodeJS
-
-* Nous allons travailler avec la dernière version LTS de NodeJS
-* En fonction de votre environnement, télécharger le fichier correspondant sur la page : https://nodejs.org/en/download/ 
-* Lancer l'installation et suivre les étapes d'installations
-* Une fois l'installation terminée, ouvrir un terminal / une invite de commande et taper
-```
-node --version
-```
-* Vous devriez obtenir :
-```
-v18.12.1
-```
-* NodeJS est maintenant installé et prêt à être utilisé
-
-
+## Prérequis:
+- savoir appeler des fonctions asynchrones à l'aide de _callback_, `Promise` et `async` + `await`.
+- savoir créer et tester des routes d'API HTTP GET et POST avec Node.js et Express.js.
+- savoir exécuter un programme Node.js depuis un shell, à l'aide de la commande `node`. 
 
 ## Exercice 1 - Lecture et écriture synchrone
 
@@ -41,7 +27,6 @@ Références Node.js et JavaScript utiles:
 - [`fs.writeFileSync()`](https://devdocs.io/node/fs#fs_fs_writefilesync_file_data_options),
 - [`<string>.toLowerCase()`](https://devdocs.io/javascript/global_objects/string/tolowercase)
 - [How to parse command line arguments | Node.js](https://nodejs.org/en/knowledge/command-line/how-to-parse-command-line-arguments/).
-
 
 
 ## Exercice 2 - Utilisation d'appels asynchrones
@@ -108,4 +93,3 @@ Conseil: Commencez par transformer seulement l'appel à `writeFile()` dans un pr
 ## Références
 
 - cf [Aide-mémoire](../sync-vs-async) et autres [ressources sur l'exécution de code asynchrone](../02-async/#ressources-sur-lexcution-de-code-asynchrone) fournies dans la partie 2.
-
