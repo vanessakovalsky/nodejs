@@ -1,8 +1,0 @@
-TP 10 - Connexion utilisateur
-
-- Ajouter dans notre application une connexion utilisateur
-- Ne permettre l'ajout / l'édition / la suppression d'un ticket 
-que si l'utilisateur est connecté
-- Ajouter les utilisateurs dans la BDD
-- Donner la possibilité d'affecter un ticket à un utilisateur
-- Ajouter une page avec la liste des tickets qui me sont assignés

@@ -1,9 +1,0 @@
-TP 12 - Traitement par lot
-
-- A l'aide du module et de la commande créer dans le 2ème tp,
-importer toutes les nuits un fichier csv comme fournit, qui va créer
-les tickets n'existants pas, ou mettre à jour les tickets existants
-- Puis déplacer le fichier dans un répertoire de backup, avec la date à laquelle
-le fichier a été traité
-- Puis envoyer un mail à suppport@openska.com pour informé du nombre de tickets 
-créés, du nombre de tickets mis à jour, et du nom du fichier. 
