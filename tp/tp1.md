@@ -34,12 +34,6 @@ v18.12.1
 - affiche le contenu de cette variable, après l'avoir modifiée;
 - puis écrit ce contenu modifié dans le fichier `résultat.txt`.
 
-🤖 Execution du robot de correction en local:
-
-```sh
-$ npm install github:adrienjoly/cours-nodejs # une fois pour toutes, pour installer le robot
-$ npx cours-nodejs test 3-1 minuscules.js # pour faire tester minuscules.js au robot de l'exercice 1 de la partie 3
-```
 
 Références Node.js et JavaScript utiles:
 
@@ -56,12 +50,6 @@ Dupliquer puis modifier le programme `minuscules.js` de l'exercice précédent, 
 
 Intercepter les erreurs qui pourraient survenir lors de l'écriture ou de la lecture de fichiers, et les afficher dans la sortie d'erreurs.
 
-
-🤖 Execution du robot de correction en local:
-
-```sh
-$ npx cours-nodejs test 3-2 minuscules.js
-```
 
 Références Node.js et JavaScript utiles:
 
@@ -85,13 +73,6 @@ Faites en sorte que:
 
 Après ces modifications, le programme doit fonctionner de manière identique à celui de l'exercice précédent.
 
-🤖 Execution du robot de correction en local:
-
-```sh
-$ npx cours-nodejs test 3-3 minuscules.js
-```
-
----
 
 ## Exercice 4 - Utilisation de Promesses
 
@@ -101,12 +82,6 @@ Après ces modifications:
 - votre programme ne doit donc plus employer de _callback_;
 - et il doit fonctionner de manière identique à celui de l'exercice précédent.
 
-
-🤖 Execution du robot de correction en local:
-
-```sh
-$ npx cours-nodejs test 3-4 minuscules.js
-```
 
 Conseil: Commencez par transformer seulement l'appel à `writeFile()` dans un premier temps, puis celui à `lireFichier()` dans un deuxième temps.
 
@@ -126,11 +101,6 @@ Après ces modifications:
 - votre programme ne doit donc plus employer `Promise`, `resolve`, `reject`, `.then()`, `.catch()` ni de _callback_;
 - et il doit fonctionner de manière identique à celui de l'exercice précédent.
 
-🤖 Execution du robot de correction en local:
-
-```sh
-$ npx cours-nodejs test 3-5 minuscules.js
-```
 
 Conseil: Commencez par transformer seulement l'appel à `writeFile()` dans un premier temps, puis celui à `lireFichier()` dans un deuxième temps.
 
