@@ -85,8 +85,6 @@ Faites en sorte que:
 
 Après ces modifications, le programme doit fonctionner de manière identique à celui de l'exercice précédent.
 
-👉 Exerciseur en ligne: [ici](https://tech.io/playgrounds/55996/node-js-partie-3/creation-dune-fonction-intermediaire-avec-_callback_)
-
 🤖 Execution du robot de correction en local:
 
 ```sh
@@ -127,8 +125,6 @@ Dupliquer puis modifier le programme `minuscules.js` de l'exercice précédent, 
 Après ces modifications:
 - votre programme ne doit donc plus employer `Promise`, `resolve`, `reject`, `.then()`, `.catch()` ni de _callback_;
 - et il doit fonctionner de manière identique à celui de l'exercice précédent.
-
-👉 Exerciseur en ligne: [ici](https://tech.io/playgrounds/55996/node-js-partie-3/utilisation-de-async-et-await)
 
 🤖 Execution du robot de correction en local:
 
