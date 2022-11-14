@@ -32,7 +32,7 @@ v18.12.1
 
 ## Exercice 2 - Affichage d'une page HTML
 
-* Nous souhaitons afficher le HTML se trouvant à cette adresse : bliaudet.free.fr/IMG/zip/node-TP1.zip  
+* Nous souhaitons afficher le HTML se trouvant à cette adresse : http://bliaudet.free.fr/IMG/zip/node-TP1.zip  
 * Pour cela on utilise le module HTTP (à importer) avec ses méthodes writeHead, write et end sur la réponse
 
 ## Exercice 3 - Utiliser du code JS existants
